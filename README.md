@@ -34,7 +34,3 @@ I've also lead a team of engineers in a large scale migration project, transform
 Before stepping into the world of back-end development, I served as an IT Infrastructure Specialist for a major bank in Brazil. Here, I honed my skills in monitoring, troubleshooting, and maintaining networks, systems, servers, and infrastructure components.
 
 ---
-
-## Continuing Education
-
-I'm currently pursuing a postgraduate degree in **Artificial Intelligence** at Mackenzie University. As an engineer, I am always driven by a curiosity to explore new technologies and understand how they can shape the future of development.
