@@ -2,7 +2,7 @@
 
 ![Senior Back-End Developer](https://img.shields.io/badge/Role-Senior%20Back--End%20Developer-blue) ![Location](https://img.shields.io/badge/Location-Brazil-green)
 
-**Please note that professional code developed for companies like ODTech and others isn't available due to them being in private repositories.**
+**Please note that professional code developed for ODTech and others isn't available in this repositorydue to them being in private repositories.**
 
 ---
 
