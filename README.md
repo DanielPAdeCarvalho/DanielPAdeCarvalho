@@ -1,8 +1,7 @@
 # Hi there, I'm Daniel Carvalho 👋
-
 ![Senior Back-End Developer](https://img.shields.io/badge/Role-Senior%20Back--End%20Developer-blue) ![Location](https://img.shields.io/badge/Location-Brazil-green)
 
-**Please note that professional code developed for ODTech and others isn't available in this repositorydue to them being in private repositories.**
+**Please note that professional code developed for ODTech and others isn't available in this repository due to them being in private repositories.**
 
 ---
 
@@ -20,16 +19,16 @@ I'm a seasoned Back-End Developer with a wealth of experience in building scalab
 
 ### 🌐 Connect with me
 
-* 📧 [Email]danielpcarvalho (at) outlook.com.br
+* 📧 Email: danielpcarvalho (at) outlook.com.br
 * 🔗 [LinkedIn](https://www.linkedin.com/in/danielpcarvalho/)
 
 ---
 
 ## Highlights of My Journey So Far
 
-I've had the privilege to design and build a custom-made **cryptocurrency** for a client's rewards program, diving deep into the **Ethereum Blockchain** and exploring the capabilities of **JSON-RPC API, Geth (go-ethereum), and Node.js**. This project further solidified our expertise in blockchain application development and tokenization.
+I've had the privilege to design and build a custom-made **cryptocurrency** for a client's rewards program, diving deep into the **Ethereum Blockchain** and exploring the capabilities of **JSON-RPC API, Geth (go-ethereum), and Node.js**. This project further solidified my expertise in blockchain application development and tokenization.
 
-I've also lead a team of engineers in a large scale migration project, transforming a legacy system to a more robust and scalable one. We leveraged the power of **Go, AWS, and DynamoDB** to achieve this.
+I've also led a team of engineers in a large-scale migration project, transforming a legacy system to a more robust and scalable one. We leveraged the power of **Go, AWS, and DynamoDB** to achieve this.
 
 Before stepping into the world of back-end development, I served as an IT Infrastructure Specialist for a major bank in Brazil. Here, I honed my skills in monitoring, troubleshooting, and maintaining networks, systems, servers, and infrastructure components.
 
