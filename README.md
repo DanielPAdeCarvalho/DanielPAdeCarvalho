@@ -18,8 +18,6 @@ I'm a seasoned Back-End Developer with a wealth of experience in building scalab
 * Command-line wizardry with Bash
 
 ### 🌐 Connect with me
-
-* 📧 Email: danielpcarvalho (at) outlook.com.br
 * 🔗 [LinkedIn](https://www.linkedin.com/in/danielpcarvalho/)
 
 ---
